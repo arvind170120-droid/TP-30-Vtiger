@@ -8,6 +8,9 @@ public class ExJenkins1
 	public void m1()
 	{
 		System.out.println("Jenkins Practice");
+		System.out.println("Jenkins Practice");
+		System.out.println("Jenkins Practice");
+		
 	}
 
 }
