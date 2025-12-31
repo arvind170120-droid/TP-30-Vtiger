@@ -59,7 +59,7 @@
         <version>3.5.4</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>Parallelng.xml</suiteXmlFile>
+            <suiteXmlFile>groupExe.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
